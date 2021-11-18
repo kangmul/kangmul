@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kangmul
 - 👀 I’m interested in WEB DEVELOPER
 - 🌱 I’m currently learning vue nuxt
-- 💞️ I’m looking to collaborate on Fullstack Development
 - 📫 How to reach me @mulukd
 
 <!---
